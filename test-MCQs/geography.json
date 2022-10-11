@@ -1,0 +1,500 @@
+[
+    {
+        "question": "In welk werelddeel ligt Noord-Korea?",
+        "answer": "Azi\u00eb",
+        "language": "nl",
+        "distractors": [
+            "Antarctica",
+            "Noord-Amerika",
+            "Oceani\u00eb",
+            "Europa",
+            "Zuid-Amerika",
+            "Afrika"
+        ]
+    },
+    {
+        "question": "Van welk land is Amsterdam de hoofdstad?",
+        "answer": "Nederland",
+        "language": "nl",
+        "distractors": [
+            "Belgi\u00eb",
+            "Duitsland",
+            "Frankrijk"
+        ]
+    },
+    {
+        "question": "In welk werelddeel ligt Eritrea?",
+        "answer": "Afrika",
+        "language": "nl",
+        "distractors": [
+            "Azi\u00eb",
+            "Noord-Amerika",
+            "Antarctica",
+            "Zuid-Amerika",
+            "Europa",
+            "Oceani\u00eb"
+        ]
+    },
+    {
+        "question": "Tot welke geografische streek hoort Ieper?",
+        "answer": "Zandlemig Vlaanderen",
+        "language": "nl",
+        "distractors": [
+            "Hageland",
+            "Zandig Vlaanderen",
+            "Polders",
+            "Kempen"
+        ]
+    },
+    {
+        "question": "Welk seizoen is het in juli?",
+        "answer": "zomer",
+        "language": "nl",
+        "distractors": [
+            "lente",
+            "winter",
+            "herfst"
+        ]
+    },
+    {
+        "question": "Tot op welk niveau geeft de atlas informatie over de landbouw?",
+        "answer": "per gemeente",
+        "language": "nl",
+        "distractors": [
+            "per provincie",
+            "per straat",
+            "per dorp"
+        ]
+    },
+    {
+        "question": "Tot welk continent behoort Lesotho?",
+        "answer": "Afrika",
+        "language": "nl",
+        "distractors": [
+            "Eurazi\u00eb",
+            "Geen, want het is een eiland.",
+            "Australi\u00eb",
+            "Amerika",
+            "Antarctica"
+        ]
+    },
+    {
+        "question": "Welke autosnelweg ligt er tussen Namen en Aarlen?",
+        "answer": "E411",
+        "language": "nl",
+        "distractors": [
+            "E17",
+            "E25",
+            "E42"
+        ]
+    },
+    {
+        "question": "De evenaar is het nulpunt van de breedtelijnen. Wat is dan de breedteligging van de evenaar?",
+        "answer": "0\u00b0",
+        "language": "nl",
+        "distractors": [
+            "90\u00b0",
+            "45\u00b0"
+        ]
+    },
+    {
+        "question": "Tot welk continent behoort Brazili\u00eb?",
+        "answer": "Amerika",
+        "language": "nl",
+        "distractors": [
+            "Eurazi\u00eb",
+            "Geen, want het is een eiland.",
+            "Australi\u00eb",
+            "Afrika",
+            "Antarctica"
+        ]
+    },
+    {
+        "question": "Tot welke geografische streek hoort Sint-Niklaas?",
+        "answer": "Zandig Vlaanderen",
+        "language": "nl",
+        "distractors": [
+            "Hageland",
+            "Zandlemig Vlaanderen",
+            "Polders",
+            "Kempen"
+        ]
+    },
+    {
+        "question": "Tot welke geografische streek hoort Assenede?",
+        "answer": "Polders",
+        "language": "nl",
+        "distractors": [
+            "Hageland",
+            "Kempen",
+            "Zandlemig Vlaanderen",
+            "Zandig Vlaanderen"
+        ]
+    },
+    {
+        "question": "Hoe groot is de hoek tussen de evenaar en de aardas?",
+        "answer": "90\u00b0",
+        "language": "nl",
+        "distractors": [
+            "180\u00b0",
+            "360\u00b0",
+            "45\u00b0"
+        ]
+    },
+    {
+        "question": "Hoe wordt het begin van een rivier genoemd?",
+        "answer": "de bron",
+        "language": "nl",
+        "distractors": [
+            "de middenloop",
+            "de monding"
+        ]
+    },
+    {
+        "question": "Van welk land is Athene de hoofdstad?",
+        "answer": "Griekenland",
+        "language": "nl",
+        "distractors": [
+            "Portugal",
+            "Zweden",
+            "Noord-Macedoni\u00eb"
+        ]
+    },
+    {
+        "question": "In welk continent ligt Mexico?",
+        "answer": "Amerika",
+        "language": "nl",
+        "distractors": [
+            "Geen, want het is een eiland",
+            "Australi\u00eb",
+            "Antarctica",
+            "Afrika",
+            "Eurazi\u00eb"
+        ]
+    },
+    {
+        "question": "Tot welke geografische streek hoort Westerlo?",
+        "answer": "Kempen",
+        "language": "nl",
+        "distractors": [
+            "Hageland",
+            "Polders",
+            "Zandig Vlaanderen",
+            "Zandlemig Vlaanderen"
+        ]
+    },
+    {
+        "question": "Wat is een synoniem (woord met dezelfde betekenis) van breedtelijn?",
+        "answer": "parallel",
+        "language": "nl",
+        "distractors": [
+            "meridiaan"
+        ]
+    },
+    {
+        "question": "Van welk land is Wenen de hoofdstad?",
+        "answer": "Oostenrijk",
+        "language": "nl",
+        "distractors": [
+            "Servi\u00eb",
+            "Ierland",
+            "Denemarken"
+        ]
+    },
+    {
+        "question": "Bij een breukschaal van 1 : 100 000 is 1 cm gelijk aan...",
+        "answer": "1 km",
+        "language": "nl",
+        "distractors": [
+            "10 km",
+            "0,1 km"
+        ]
+    },
+    {
+        "question": "Welke Belgische steden hebben een luchthaven?",
+        "answer": "Zaventem ### Antwerpen ### Charleroi ### \nOostende ### Luik",
+        "language": "nl",
+        "distractors": [
+            "Namen",
+            "Leuven",
+            "Genk",
+            "Gent",
+            "Brugge"
+        ]
+    },
+    {
+        "question": "In welk halfrond ligt Belgi\u00eb?",
+        "answer": "noordelijk halfrond",
+        "language": "nl",
+        "distractors": [
+            "zuidelijk halfrond"
+        ]
+    },
+    {
+        "question": "Hoeveel continenten zijn er?",
+        "answer": "5",
+        "language": "nl",
+        "distractors": [
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "question": "In welk continent ligt Australi\u00eb?",
+        "answer": "Australi\u00eb",
+        "language": "nl",
+        "distractors": [
+            "Geen, want het is een eiland",
+            "Australi\u00eb",
+            "Antarctica",
+            "Afrika",
+            "Eurazi\u00eb"
+        ]
+    },
+    {
+        "question": "Welke twee rivieren vloeit samen met de Schelde in Gent?",
+        "answer": "Leie ",
+        "language": "nl",
+        "distractors": [
+            "Mandel",
+            "Demer"
+        ]
+    },
+    {
+        "question": "Wat is de hoofdstad van Duitsland?",
+        "answer": "Berlijn",
+        "language": "nl",
+        "distractors": [
+            "Dortmund",
+            "Keulen",
+            "M\u00fcnchen"
+        ]
+    },
+    {
+        "question": "In welke bergketen ligt de hoogste berg, de Mount Everest, met een hoogte van 8848 m?",
+        "answer": "Himalaya",
+        "language": "nl",
+        "distractors": [
+            "Afrikaans Hoogland",
+            "Rocky Mountains",
+            "Alpen"
+        ]
+    },
+    {
+        "question": "In welke zee mondt de Schelde uit?",
+        "answer": "Noordzee",
+        "language": "nl",
+        "distractors": [
+            "Oostzee",
+            "Atlantische Oceaan"
+        ]
+    },
+    {
+        "question": "Voor hoeveel procent van de wereldwijde CO2-uitstoot is de luchtvaart verantwoordelijk?",
+        "answer": "2-3%",
+        "language": "nl",
+        "distractors": [
+            "25%",
+            "0,01%",
+            "10%"
+        ]
+    },
+    {
+        "question": "In welk seizoen zijn de temperaturen het hoogst?",
+        "answer": "zomer",
+        "language": "nl",
+        "distractors": [
+            "winter"
+        ]
+    },
+    {
+        "question": "Wat is de Verbeke Foundation?",
+        "answer": "Openluchtmuseum",
+        "language": "nl",
+        "distractors": [
+            "Verlaten industrieterrein",
+            "Stortplaats voor grofvuil."
+        ]
+    },
+    {
+        "question": "Hoeveel vluchten zijn er jaarlijks?",
+        "answer": "40 miljoen",
+        "language": "nl",
+        "distractors": [
+            "100 miljoen",
+            "500 000",
+            "10 miljoen"
+        ]
+    },
+    {
+        "question": "Welke herkenningspunten zijn belangrijk voor een referentiekaart van Belgi\u00eb?",
+        "answer": "Autosnelwegen\n###\nLandsgrenzen\n###\nGrote waterlopen ### Grote steden",
+        "language": "nl",
+        "distractors": [
+            "Lokale wegen",
+            "Grote gebouwen",
+            "Dorpen"
+        ]
+    },
+    {
+        "question": "Hoe snel kon het snelste commerci\u00eble vliegtuig ooit vliegen?",
+        "answer": "2000 km/u",
+        "language": "nl",
+        "distractors": [
+            "1000 km/u",
+            "1500 km/u"
+        ]
+    },
+    {
+        "question": "Hoeveel oceanen zijn er?",
+        "answer": "5",
+        "language": "nl",
+        "distractors": [
+            "4",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "question": "Wat is de hoofdstad van het Verenigd Koninkrijk?",
+        "answer": "Londen",
+        "language": "nl",
+        "distractors": [
+            "Glasgow",
+            "Manchester",
+            "Liverpool"
+        ]
+    },
+    {
+        "question": "Welke lijn deelt de wereld in het noordelijk en zuidelijk halfrond?",
+        "answer": "Evenaar",
+        "language": "nl",
+        "distractors": [
+            "Noordpoolcirkel",
+            "Steenbokskeerkring",
+            "Nulmeridiaan"
+        ]
+    },
+    {
+        "question": "In welk halfrond ligt Rio de Janeiro?",
+        "answer": "zuidelijk halfrond",
+        "language": "nl",
+        "distractors": [
+            "noordelijk halfrond"
+        ]
+    },
+    {
+        "question": "Wat is de hoogte van de Feldberg?",
+        "answer": "1493 m",
+        "language": "nl",
+        "distractors": [
+            "1458 m",
+            "1687 m"
+        ]
+    },
+    {
+        "question": "Wat is de naam van het grootste meer dat door de Rh\u00f4ne wordt gevormd?",
+        "answer": "Meer van Gen\u00e8ve",
+        "language": "nl",
+        "distractors": [
+            "Meer van Sion",
+            "Meer van Marseille"
+        ]
+    },
+    {
+        "question": "Welke van de volgende is een zijrivier.",
+        "answer": "Leie ### Drava ### Sava",
+        "language": "nl",
+        "distractors": [
+            "Taag",
+            "Schelde",
+            "Rijn"
+        ]
+    },
+    {
+        "question": "In welk halfrond ligt New York?",
+        "answer": "noordelijk halfrond",
+        "language": "nl",
+        "distractors": [
+            "zuidelijk halfrond"
+        ]
+    },
+    {
+        "question": "Wat is de hoofdstad van Schotland?",
+        "answer": "Edinburgh",
+        "language": "nl",
+        "distractors": [
+            "Dublin",
+            "Londen",
+            "Cardiff",
+            "Belfast"
+        ]
+    },
+    {
+        "question": "In welk halfrond ligt Kaapstad?",
+        "answer": "zuidelijk halfrond",
+        "language": "nl",
+        "distractors": [
+            "noordelijk halfrond"
+        ]
+    },
+    {
+        "question": "Welke autosnelweg loopt er tussen Namen en Luik?",
+        "answer": "E42",
+        "language": "nl",
+        "distractors": [
+            "E313",
+            "E25",
+            "E40"
+        ]
+    },
+    {
+        "question": "Welk gebergte ligt niet in Europa?",
+        "answer": "Andes",
+        "language": "nl",
+        "distractors": [
+            "Alpen",
+            "Pyrenee\u00ebn"
+        ]
+    },
+    {
+        "question": "Een Playmobilfiguurtje is 32x kleiner dan de gemiddelde leerling in het eerste middelbaar. Zet dit om in een juiste breukschaal.",
+        "answer": "1/32",
+        "language": "nl",
+        "distractors": [
+            "32/1"
+        ]
+    },
+    {
+        "question": "Wat is de hoofdstad van Itali\u00eb?",
+        "answer": "Rome",
+        "language": "nl",
+        "distractors": [
+            "Turijn",
+            "Milaan",
+            "Palermo"
+        ]
+    },
+    {
+        "question": "Van welk land is Lissabon de hoofdstad?",
+        "answer": "Portugal",
+        "language": "nl",
+        "distractors": [
+            "Spanje",
+            "Itali\u00eb",
+            "Griekenland"
+        ]
+    },
+    {
+        "question": "Wat is de hoofdstad van Ierland?",
+        "answer": "Dublin",
+        "language": "nl",
+        "distractors": [
+            "Edinburgh",
+            "Belfast",
+            "Cardiff",
+            "Londen"
+        ]
+    }
+]

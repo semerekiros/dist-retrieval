@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Welke van volgende symptomen zijn symptomen van bronchitis?",
+        "answer": "ontsteking van de grote luchtwegen",
+        "language": "nl",
+        "distractors": [
+            "ontsteking van de longblaasjes"
+        ]
+    },
+    {
+        "question": "Wat zijn de twee belangrijkste oorzaken van de grote hoeveelheid broeikasgassen?",
+        "answer": "verbranding van fossiele brandstoffen",
+        "language": "nl",
+        "distractors": [
+            "aantasting van de ozonlaag",
+            "productie van CFK\u2019s",
+            "elektrische verwarming"
+        ]
+    },
+    {
+        "question": "Welk mineraal is er aanwezig in het bloed van elke gezonde mens?",
+        "answer": "ijzer",
+        "language": "nl",
+        "distractors": [
+            "aluminium",
+            "lood"
+        ]
+    },
+    {
+        "question": "Welke tweelingen lijken het best op elkaar?",
+        "answer": "eeneiige",
+        "language": "nl",
+        "distractors": [
+            "twee-eiige"
+        ]
+    },
+    {
+        "question": "Welke vrucht heeft het meest zaadjes?",
+        "answer": "appel",
+        "language": "nl",
+        "distractors": [
+            "pruim",
+            "kers"
+        ]
+    },
+    {
+        "question": "In welk lichaamsdeel glijdt de penis bij de geslachtsgemeenschap?",
+        "answer": "vagina",
+        "language": "nl",
+        "distractors": [
+            "eileider",
+            "baarmoeder"
+        ]
+    },
+    {
+        "question": "Op welke twee natuurelementen is duurzame energie voornamelijk gebaseerd?",
+        "answer": "wind",
+        "language": "nl",
+        "distractors": [
+            "sneeuw",
+            "regen"
+        ]
+    },
+    {
+        "question": "Welke voedingsmiddelen geven een positieve vetvlektest?",
+        "answer": "ma\u00efsolie",
+        "language": "nl",
+        "distractors": [
+            "Fanta",
+            "sinaasappelsap"
+        ]
+    },
+    {
+        "question": "Waarmee vult de penis zich wanneer hij stijf wordt?",
+        "answer": "bloed",
+        "language": "nl",
+        "distractors": [
+            "water",
+            "sperma"
+        ]
+    },
+    {
+        "question": "Wat heeft een bosmuis niet?",
+        "answer": "schubben",
+        "language": "nl",
+        "distractors": [
+            "snorharen",
+            "tepels"
+        ]
+    },
+    {
+        "question": "Hoeveel procent van de lucht is zuurstofgas?",
+        "answer": "20%",
+        "language": "nl",
+        "distractors": [
+            "40%",
+            "60%"
+        ]
+    },
+    {
+        "question": "Waarom verdrinken insecten die zich in de holle stengels van de reuzenbalsemien verschuilen?",
+        "answer": "Omdat de plant omvalt.",
+        "language": "nl",
+        "distractors": [
+            "Omdat de plant sap afgeeft.",
+            "Omdat het water in de winter meer stijgt."
+        ]
+    },
+    {
+        "question": "In welke fase is het water bij het weersverschijnsel 'mist'?",
+        "answer": "vloeibaar",
+        "language": "nl",
+        "distractors": [
+            "vast",
+            "gas"
+        ]
+    },
+    {
+        "question": "Op welke dag na de bevruchting nestelt de bevruchte eicel zich in het baarmoederslijmvlies?",
+        "answer": "6de dag",
+        "language": "nl",
+        "distractors": [
+            "5de dag",
+            "7de dag",
+            "8ste dag"
+        ]
+    },
+    {
+        "question": "Hoe planten bacteri\u00ebn zich voort?",
+        "answer": "door zich gewoon in twee te delen",
+        "language": "nl",
+        "distractors": [
+            "door te paren"
+        ]
+    },
+    {
+        "question": "Wat is een hormonaal implantaat?",
+        "answer": "een voorbehoedsmiddel dat onder de huid wordt ingeplant",
+        "language": "nl",
+        "distractors": [
+            "een zetpil met hormonen",
+            "een spiraalvormig voorwerp dat in de baarmoeder wordt ingeplant"
+        ]
+    },
+    {
+        "question": "Welke schroef kan je bij sterkste vergroting het best niet gebruiken?",
+        "answer": "macroschroef",
+        "language": "nl",
+        "distractors": [
+            "microschroef"
+        ]
+    },
+    {
+        "question": "Wie heeft volgens jou gemiddeld de grootste vitale capaciteit?",
+        "answer": "volwassenen",
+        "language": "nl",
+        "distractors": [
+            "kinderen"
+        ]
+    },
+    {
+        "question": "Hoe meet je de massa van een voorwerp?",
+        "answer": "met een weegschaal",
+        "language": "nl",
+        "distractors": [
+            "met een maatbeker",
+            "met een meetlat"
+        ]
+    },
+    {
+        "question": "Bij welke bloemen gebeurt de bestuiving door bijen?",
+        "answer": "appelbloesem",
+        "language": "nl",
+        "distractors": [
+            "tarwe"
+        ]
+    },
+    {
+        "question": "Welk bloemdeel is mannelijk?",
+        "answer": "meeldraad",
+        "language": "nl",
+        "distractors": [
+            "stijl",
+            "stamper"
+        ]
+    },
+    {
+        "question": "Welke plant heeft geen gele bloemen?",
+        "answer": "klaproos",
+        "language": "nl",
+        "distractors": [
+            "boterbloem",
+            "paardenbloem"
+        ]
+    },
+    {
+        "question": "Waarom worden van grote vetdruppels kleine gemaakt?",
+        "answer": "Dan kunnen de spijsverteringssappen er goed bij.",
+        "language": "nl",
+        "distractors": [
+            "Dan kunnen ze makkelijker in de bloedbaan worden opgenomen.",
+            "Dan zakken ze niet zo snel tot in je dunne darm.",
+            "Dan kunnen de spijsverteringssappen er goed bij."
+        ]
+    },
+    {
+        "question": "Duid het juiste antwoord aan.\n\nWat zal er gebeuren met de ijsblokjes als je je glas water in de zon laat staan?",
+        "answer": "Ze zullen smelten.",
+        "language": "nl",
+        "distractors": [
+            "Het zullen warme blokjes worden.",
+            "Niets"
+        ]
+    },
+    {
+        "question": "Waarom is het niet levensbedreigend als iemands alvleesklier geen enzym meer produceert om zetmeel af te breken?",
+        "answer": "omdat het enzym ook werkt in de mond",
+        "language": "nl",
+        "distractors": [
+            "omdat zetmeel niet noodzakelijk afgebroken moet worden",
+            "omdat men dat enzym kan toedienen"
+        ]
+    },
+    {
+        "question": "Door welke beenderen worden de longen beschermd?",
+        "answer": "ribben",
+        "language": "nl",
+        "distractors": [
+            "bekken",
+            "opperarmbeen",
+            "kaakbeen"
+        ]
+    },
+    {
+        "question": "Aan welke zijde worden de longen van een pati\u00ebnt door ontstekingsvocht platgedrukt?",
+        "answer": "rugzijde",
+        "language": "nl",
+        "distractors": [
+            "buikzijde"
+        ]
+    },
+    {
+        "question": "Duid aan in welke voedingsmiddelen uit de tabel eiwitten het hoofdbestanddeel zijn.",
+        "answer": "Pizza Mozzarella e pesto van Oetker",
+        "language": "nl",
+        "distractors": [
+            "Lion Flakes Caramel&Chocolat van Nestl\u00e9",
+            "Spaghetti van Soubry",
+            "Zilvervliesrijst van Bosto"
+        ]
+    },
+    {
+        "question": "Hoelang wordt de eisprong door de noodpil uitgesteld?",
+        "answer": "tot 5 dagen",
+        "language": "nl",
+        "distractors": [
+            "tot 3 dagen",
+            "tot 7 dagen"
+        ]
+    },
+    {
+        "question": "Welk orgaan behoort tot ons spijsverteringsstelsel?",
+        "answer": "alvleesklier",
+        "language": "nl",
+        "distractors": [
+            "schildklier",
+            "prostaatklier"
+        ]
+    },
+    {
+        "question": "Welk dier heeft geen klauwen?",
+        "answer": "het konijn",
+        "language": "nl",
+        "distractors": [
+            "de wilde kat",
+            "de arend"
+        ]
+    },
+    {
+        "question": "In welke cellen kan je bladgroenkorrels aantreffen?",
+        "answer": "plantaardige cellen",
+        "language": "nl",
+        "distractors": [
+            "dierlijke cellen"
+        ]
+    },
+    {
+        "question": "Hoe wordt de ziekte COVID-19 overgedragen?",
+        "answer": "door hoesten of niezen",
+        "language": "nl",
+        "distractors": [
+            "via seksueel contact",
+            "door besmet voedsel en water",
+            "via injectienaalden",
+            "door de lucht"
+        ]
+    },
+    {
+        "question": "Welke stoffen worden via de navelstreng aan- en afgevoerd?",
+        "answer": "aanvoer van voedingsstoffen en zuurstofgas",
+        "language": "nl",
+        "distractors": [
+            "aanvoer van koolstofdioxide en afvalstoffen",
+            "afvoer van voedingsstoffen en zuurstofgas"
+        ]
+    },
+    {
+        "question": "Wanneer ongeveer in de menstruatiecyclus gebeurt de eisprong?",
+        "answer": "rond de 13de dag",
+        "language": "nl",
+        "distractors": [
+            "rond de 10de dag",
+            "rond de 16de dag"
+        ]
+    },
+    {
+        "question": "Wat raadpleeg je om te weten wat de benodigdheden zijn bij een proef?",
+        "answer": "de werkwijze",
+        "language": "nl",
+        "distractors": [
+            "de onderzoeksvraag",
+            "de hypothese"
+        ]
+    },
+    {
+        "question": "De gewone schaalhoorn is een weekdier dat leeft in de getijdenzone in zee. Hij heeft een kegelvormige schelp. Wat doet het dier om zich tegen zeevogels te beschermen wanneer het water zich terugtrekt?",
+        "answer": "zich vastzuigen",
+        "language": "nl",
+        "distractors": [
+            "in spleten kruipen",
+            "gifklieren uitstulpen",
+            "zich camoufleren"
+        ]
+    },
+    {
+        "question": "Op welke drie manieren voorkomt de pil een zwangerschap?",
+        "answer": "Ze voorkomt innesteling.",
+        "language": "nl",
+        "distractors": [
+            "De bevruchte eicel kan niet delen.",
+            "De zaadcellen kunnen niet in de eicel binnendringen."
+        ]
+    },
+    {
+        "question": "Welke van deze inspanningen worden beschouwd als licht intensief bewegen?",
+        "answer": "stofzuigen",
+        "language": "nl",
+        "distractors": [
+            "touwtje springen",
+            "fietsen",
+            "skateboarden"
+        ]
+    },
+    {
+        "question": "Baarmoederhalskanker is een van de meest voorkomende kankers bij vrouwen. Door welk organisme wordt het veroorzaakt?",
+        "answer": "een virus",
+        "language": "nl",
+        "distractors": [
+            "een schimmel",
+            "een bacterie"
+        ]
+    },
+    {
+        "question": "Welke biotische factoren hebben invloed op het leven van een koolmees?",
+        "answer": "havik",
+        "language": "nl",
+        "distractors": [
+            "merel",
+            "everzwijn",
+            "eekhoorn"
+        ]
+    },
+    {
+        "question": "Waar tref je de eekhoorn en de bonte specht het meest aan?",
+        "answer": "in een bos",
+        "language": "nl",
+        "distractors": [
+            "in de duinen",
+            "in een weide"
+        ]
+    },
+    {
+        "question": "Welke van deze organen behoren tot het spijsverteringsstelsel?",
+        "answer": "dikke darm",
+        "language": "nl",
+        "distractors": [
+            "milt",
+            "nier"
+        ]
+    },
+    {
+        "question": "Welk orgaan is verantwoordelijk voor de tijdelijke opslag van zaadcellen?",
+        "answer": "bijbal",
+        "language": "nl",
+        "distractors": [
+            "teelbal",
+            "zaadblaasje"
+        ]
+    },
+    {
+        "question": "Welke van deze soa\u2019s kan met antibiotica worden behandeld?",
+        "answer": "chlamydia",
+        "language": "nl",
+        "distractors": [
+            "herpes"
+        ]
+    },
+    {
+        "question": "Welke van deze gebieden zijn geen biotopen?",
+        "answer": "speeltuin ",
+        "language": "nl",
+        "distractors": [
+            "naaldbos",
+            "bergriviertje"
+        ]
+    },
+    {
+        "question": "Clitoridectomie is in Belgi\u00eb en alle westerse landen strafbaar en wordt ook actief vervolgd. Wat betekent dat woord?",
+        "answer": "verwijderen van de clitoris",
+        "language": "nl",
+        "distractors": [
+            "orgasme voor het huwelijk",
+            "ongewenste seks binnen het huwelijk"
+        ]
+    },
+    {
+        "question": "Op een mooie zomerdag heb je een wandeling uitgestippeld op een kaart op je smartphone. Je vertrekt op het heetste moment van de dag. Het is verstandig om je wandeling te beginnen aan de noordkant van het bos. Waarom?",
+        "answer": "Omdat de zon op het heetste van de dag in het zuiden staat.",
+        "language": "nl",
+        "distractors": [
+            "Omdat je in het noorden de wind niet voelt.",
+            "Omdat dat dichter bij de noordpool is."
+        ]
+    },
+    {
+        "question": "Welke lens van de microscoop zit het dichtst bij het oog?",
+        "answer": "oculair",
+        "language": "nl",
+        "distractors": [
+            "objectief"
+        ]
+    },
+    {
+        "question": "Wat is maagdelijke voortplanting?",
+        "answer": "zonder bevruchting",
+        "language": "nl",
+        "distractors": [
+            "proper en netjes",
+            "zonder kleurpigmenten"
+        ]
+    }
+]

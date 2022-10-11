@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Welke farao slaagde erin om Egypte na de eerste tusenperiode weer te verenigen en zo het middenrijk te starten?",
+        "answer": "Mentoehotep II",
+        "language": "nl",
+        "distractors": [
+            "Cleopatra VII",
+            "Ramses III",
+            "Toetanchamon"
+        ]
+    },
+    {
+        "question": "Welke rivier mondt in Egypte uit in de Nijl?",
+        "answer": "De Blauwe Nijl",
+        "language": "nl",
+        "distractors": [
+            "De Zwarte Nijl",
+            "De Groene Nijl",
+            "De Rode Nijl"
+        ]
+    },
+    {
+        "question": "Weet je nog wat de eerste mensensoort was?",
+        "answer": "Homo habilis",
+        "language": "nl",
+        "distractors": [
+            "Homo erectus",
+            "Homo sapiens",
+            "Homo neanderthalensis"
+        ]
+    },
+    {
+        "question": "Wat leert ons het gebit over het voedsel van de Homo sapiens?",
+        "answer": "We aten zowel plantaardig voedsel als vlees.",
+        "language": "nl",
+        "distractors": [
+            "We aten vooral plantaardig voedsel.",
+            "We aten vooral vlees."
+        ]
+    },
+    {
+        "question": "Welke gewichten werden in Babyloni\u00eb nog gebruikt?",
+        "answer": "graan",
+        "language": "nl",
+        "distractors": [
+            "pond",
+            "kilo"
+        ]
+    },
+    {
+        "question": "Welke periode komt overeen met het oude rijk van Egypte?",
+        "answer": "2650 v.C.-2150 v.C.",
+        "language": "nl",
+        "distractors": [
+            "2700 v.C. - 2100 v.C.",
+            "2650 v.C.-2150 v.C.",
+            "2450 v.C. - 1980 v.C."
+        ]
+    },
+    {
+        "question": "Hoe werden goederen 'gekocht' in Mesopotami\u00eb?",
+        "answer": "Door te ruilen",
+        "language": "nl",
+        "distractors": [
+            "Niet",
+            "Door met geld te betalen"
+        ]
+    },
+    {
+        "question": "Wie was dus in staat om de meest voordelige ruil te doen ?",
+        "answer": "Handelaars",
+        "language": "nl",
+        "distractors": [
+            "Boeren",
+            "Ambachtslieden"
+        ]
+    },
+    {
+        "question": "Welk volk nam in 30 v.C. de macht over in Egypte?",
+        "answer": "Romeinen",
+        "language": "nl",
+        "distractors": [
+            "Libi\u00ebrs",
+            "Grieken",
+            "Assyri\u00ebrs"
+        ]
+    },
+    {
+        "question": "In welk werelddeel ligt Stonehenge?",
+        "answer": "Europa",
+        "language": "nl",
+        "distractors": [
+            "Afrika",
+            "Azi\u00eb",
+            "Noord-Amerika"
+        ]
+    },
+    {
+        "question": "Ter ere van welke god werd de tempel van Kom Ombo opgericht?",
+        "answer": "Horus",
+        "language": "nl",
+        "distractors": [
+            "Anoebis",
+            "Isis",
+            "Re"
+        ]
+    },
+    {
+        "question": "Rond welk tijd situeer je prehistorisch \u00c7atalh\u00f6y\u00fck?",
+        "answer": "\u00b17 000 v.C.",
+        "language": "nl",
+        "distractors": [
+            "\u00b113 000 v.C.",
+            "\u00b110 000 v.C.",
+            "\u00b14 000 v.C."
+        ]
+    },
+    {
+        "question": "Hoe noemden we de economische organisatie in Mesopotami\u00eb?",
+        "answer": "Economische specialisatie",
+        "language": "nl",
+        "distractors": [
+            "Economische monopolisering",
+            "Economische generalisering"
+        ]
+    },
+    {
+        "question": "Welke inwoners zijn niet blij met de plannen van Ethiopi\u00eb?",
+        "answer": "Egyptenaren",
+        "language": "nl",
+        "distractors": [
+            "Ethiopi\u00ebrs",
+            "Soedanezen"
+        ]
+    },
+    {
+        "question": "Wat is een ploeg?",
+        "answer": "Werktuig dat de aarde omwoelt",
+        "language": "nl",
+        "distractors": [
+            "Werktuig dat graanhalmen afsnijdt",
+            "Werktuig dat helpt bemesten"
+        ]
+    },
+    {
+        "question": "Welke soort kaart is de kaart met begroeiing?",
+        "answer": "situatiekaart",
+        "language": "nl",
+        "distractors": [
+            "ontwikkelingskaart"
+        ]
+    },
+    {
+        "question": "Welke rivier begint in Ethiopi\u00eb?",
+        "answer": "De Blauwe Nijl",
+        "language": "nl",
+        "distractors": [
+            "De Rode Nijl",
+            "De Zwarte Nijl",
+            "De Witte Nijl",
+            "De Groene Nijl"
+        ]
+    },
+    {
+        "question": "Om welke activiteit staat het Nieuwe Rijk van Egypte bekend?",
+        "answer": "Bouwen",
+        "language": "nl",
+        "distractors": [
+            "Afbreken",
+            "Verhuizen"
+        ]
+    },
+    {
+        "question": "Het verhaal van 'Lucy' begint met de vondst van beenderen.\n\nIn welk werelddeel werden de beenderen gevonden?",
+        "answer": "Afrika",
+        "language": "nl",
+        "distractors": [
+            "Azi\u00eb",
+            "Antarctica",
+            "Noord-Amerika",
+            "Europa",
+            "Zuid-Amerika",
+            "Oceani\u00eb"
+        ]
+    },
+    {
+        "question": "Uit welke periode stamt die bron met de meest primitieve voorstelling?",
+        "answer": "Begin 20e eeuw",
+        "language": "nl",
+        "distractors": [
+            "Midden 20e eeuw",
+            "Einde 20e eeuw",
+            "Begin 21e eeuw"
+        ]
+    },
+    {
+        "question": "Welk kenmerk was er zo typisch voor die eerste mensensoort?",
+        "answer": "Bewust werktuigen maken",
+        "language": "nl",
+        "distractors": [
+            "Spreken",
+            "Begraven",
+            "Werktuigen gebruiken"
+        ]
+    },
+    {
+        "question": "Welke soort maatschappij bestond in Mesopotami\u00eb?",
+        "answer": "Een standenmaatschappij",
+        "language": "nl",
+        "distractors": [
+            "Een egalitaire maatschappij",
+            "Een klassenmaatschappij"
+        ]
+    },
+    {
+        "question": "In hoeveel verschillende regio's ontstond landbouw?",
+        "answer": "op meerdere plaatsen",
+        "language": "nl",
+        "distractors": [
+            "op \u00e9\u00e9n plaats",
+            "bijna overal"
+        ]
+    },
+    {
+        "question": "Welke periode komt overeen met het Nieuwe Rijk van Egypte?",
+        "answer": "1550 v.C. - 1075 v.C.",
+        "language": "nl",
+        "distractors": [
+            "1700 v.C. - 1640 v.C.",
+            "1650 v.C. - 400 v.C.",
+            "1200 v.C. - 800 v.C."
+        ]
+    },
+    {
+        "question": "Welke vreemde stam speelde de baas in noordelijk Egypte tijdens de tweede tussenperiode?",
+        "answer": "Hyksos",
+        "language": "nl",
+        "distractors": [
+            "Assyri\u00ebrs",
+            "Libi\u00ebrs"
+        ]
+    },
+    {
+        "question": "Wat was Diodorus' reden om het verhaal van Dionysos op te schrijven?",
+        "answer": "De herkomst van Dionysos was onduidelijk",
+        "language": "nl",
+        "distractors": [
+            "Er ontbrak een geschiedenis van Dionysos",
+            "Hij wilde een sprookje vertellen"
+        ]
+    },
+    {
+        "question": "Hoe noemden de Romeinen het gebied van ongeveer huidig Frankrijk en Belgi\u00eb?",
+        "answer": "Gallia",
+        "language": "nl",
+        "distractors": [
+            "Germania",
+            "Britannia"
+        ]
+    },
+    {
+        "question": "Welke materiaal gebruikten de Kelten voor het vervaardigen van werktuigen en wapens, zoals dit slagzwaard?",
+        "answer": "ijzer",
+        "language": "nl",
+        "distractors": [
+            "tin",
+            "brons",
+            "koper"
+        ]
+    },
+    {
+        "question": "Wat zou de push-factoren dan wel weghalen?",
+        "answer": "Een krachtiger optreden tegen de repressieve regimes, oorlogen en het geweld.",
+        "language": "nl",
+        "distractors": [
+            "De ontwikkelingssamenwerking stopzetten.",
+            "Zoveel mogelijk migranten terugsturen."
+        ]
+    },
+    {
+        "question": "Situeer de Hallstatt-periode in de tijd.",
+        "answer": "ca. 800 v.C. - 500 v.C.",
+        "language": "nl",
+        "distractors": [
+            "ca. 500 - 50",
+            "ca. 500 v.C. - 50 v.C.",
+            "ca. 800 - 500",
+            "ca. 850 v.C. - 500"
+        ]
+    },
+    {
+        "question": "Wie was de beschermgodheid van Athene?",
+        "answer": "Pallas Athena",
+        "language": "nl",
+        "distractors": [
+            "Artemis",
+            "Poseidon",
+            "Zeus"
+        ]
+    },
+    {
+        "question": "Van welke talengroep (van de Kentumtalen) is Latijn de voorouder?",
+        "answer": "Romaans",
+        "language": "nl",
+        "distractors": [
+            "Germaans",
+            "Grieks",
+            "Keltisch"
+        ]
+    },
+    {
+        "question": "Welke Griekse staten bleven zoveel mogelijk neutraal?",
+        "answer": "Epirus ### Kreta",
+        "language": "nl",
+        "distractors": [
+            "Thessali\u00eb",
+            "Macedoni\u00eb",
+            "Peloponnesus"
+        ]
+    },
+    {
+        "question": "Wat was de grootste militaire macht van Athene?",
+        "answer": "Athene was een sterke maritieme macht (vloot).",
+        "language": "nl",
+        "distractors": [
+            "Athene had vooral een sterk landleger."
+        ]
+    },
+    {
+        "question": "Welke naam kreeg democratie in de oudheid?",
+        "answer": "volksregering",
+        "language": "nl",
+        "distractors": [
+            "democratie",
+            "gemeenschap",
+            "staat"
+        ]
+    },
+    {
+        "question": "Welke Griekse gebied werd bondgenoot van de Perzen?",
+        "answer": "Thessali\u00eb",
+        "language": "nl",
+        "distractors": [
+            "Peloponnesus",
+            "Kreta",
+            "Epirus",
+            "Macedoni\u00eb"
+        ]
+    },
+    {
+        "question": "Wie was de oppergod van het Grieks?",
+        "answer": "Zeus",
+        "language": "nl",
+        "distractors": [
+            "Hades",
+            "Hercules"
+        ]
+    },
+    {
+        "question": "Hoe kan je het volk benoemen dat in dit gebied (Germania) woonde?",
+        "answer": "Germanen",
+        "language": "nl",
+        "distractors": [
+            "Belgae",
+            "Britten",
+            "Galli\u00ebrs"
+        ]
+    },
+    {
+        "question": "Wie had de meeste macht in de Spartaanse samenleving?",
+        "answer": "gerousia",
+        "language": "nl",
+        "distractors": [
+            "volksvergadering",
+            "twee koningen"
+        ]
+    },
+    {
+        "question": "Welke kunstvorm wordt er gebruikt om het verhaal over Hercules te vertellen?",
+        "answer": "amforen",
+        "language": "nl",
+        "distractors": [
+            "reli\u00ebfs",
+            "beeldhouwkunst",
+            "bouwkunst"
+        ]
+    },
+    {
+        "question": "De macht was in de handen van velen, maar wie kreeg het recht om de beslissingen te nemen?",
+        "answer": "Zij met een speciale verdienste door hun karakter",
+        "language": "nl",
+        "distractors": [
+            "Zij van gegoede afkomst."
+        ]
+    },
+    {
+        "question": "Hoe worden de goden voorgesteld van het Grieks?",
+        "answer": "Menselijk",
+        "language": "nl",
+        "distractors": [
+            "Als natuurelementen",
+            "Dierlijk"
+        ]
+    },
+    {
+        "question": "Wat bouwden de Myceners?",
+        "answer": "Ze bouwden burchten.",
+        "language": "nl",
+        "distractors": [
+            "Ze bouwden paleizen."
+        ]
+    },
+    {
+        "question": "Welke rivier stroomt er door Sparta?",
+        "answer": "Eurotas",
+        "language": "nl",
+        "distractors": [
+            "Ladon",
+            "Alphe\u00fcs",
+            "Pinios"
+        ]
+    },
+    {
+        "question": "De oude Grieken hadden nood aan vruchtbare gebieden en richtten daarom overal in het Middellandse Zeegebied kolonies op. Welk effect had dat op de familiale relaties?",
+        "answer": "Men ging verder uit elkaar wonen.",
+        "language": "nl",
+        "distractors": [
+            "De hele familie migreerde mee."
+        ]
+    },
+    {
+        "question": "In welke continenten leefden de Indo-Europeanen?",
+        "answer": "Europa",
+        "language": "nl",
+        "distractors": [
+            "Noord-Amerika",
+            "Zuid-Amerika",
+            "Afrika"
+        ]
+    },
+    {
+        "question": "Welke voorwerpen kreeg Theseus van Ariadne?",
+        "answer": "een bol touw en een zwaard",
+        "language": "nl",
+        "distractors": [
+            "een zwaard en een helm",
+            "een bol touw en een bijl",
+            "een bol touw en twee zwaarden",
+            "een zwaard en een schild"
+        ]
+    },
+    {
+        "question": "Welk volk kwam steeds dichter in de buurt van de Griekse gebieden ca. 500 v.C.?",
+        "answer": "De Perzen",
+        "language": "nl",
+        "distractors": [
+            "De Romeinen",
+            "De Galaten"
+        ]
+    },
+    {
+        "question": "In welk groot gebied hebben de archeologen vondsten teruggevonden van de La T\u00e8ne-periode?",
+        "answer": "van Groot-Brittanni\u00eb tot de Balkan",
+        "language": "nl",
+        "distractors": [
+            "van Groot-Brittanni\u00eb tot Griekenland",
+            "van Ierland tot Oostenrijk",
+            "van Engeland tot Itali\u00eb"
+        ]
+    },
+    {
+        "question": "Xerxes leidde zijn troepen opnieuw langs Thraci\u00eb naar het Griekse vasteland. Waar werd de eerste grote slag geleverd?",
+        "answer": "Thermopylae",
+        "language": "nl",
+        "distractors": [
+            "Salamis",
+            "Athene",
+            "Marathon",
+            "Plataeae"
+        ]
+    }
+]
